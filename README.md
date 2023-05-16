@@ -40,4 +40,5 @@ Include your output screenshot here
 ![233895702-622d9310-f278-4bc1-af7a-9baeb8a940f3](https://github.com/POKALAGURAVAIAH8121/places-around-me/assets/128034765/ad5f3114-eab4-445c-922d-3a0822ad7623)
 
 ## Result:
-Write your result
+Write your result he program for implementing image maps using HTML is executed
+successfully.
